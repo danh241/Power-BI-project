@@ -1,10 +1,10 @@
 # Project Report: Plant Co. Multi-Year Performance Trend Analysis
 
-## 📝 Situation
+## 1. Situation
 
 Plant Co. is a global distributor of botanical products. Following a period of strong growth in 2022, leadership observed a concerning downturn in overall profitability. A preliminary look showed a cumulative Gross Profit decline of **$5.49M** over several years, but the specific timing and drivers of this reversal were unclear. The company needed to move beyond a single snapshot view and diagnose the root causes of this multi-year performance deterioration.
 
-## 🎯 Task
+## 2. Task
 
 My task was to build a comprehensive Power BI dashboard to analyze performance trends from 2022 to 2024. The goal was to provide a clear, data-driven narrative that answered critical strategic questions:
 
@@ -13,7 +13,7 @@ My task was to build a comprehensive Power BI dashboard to analyze performance t
 - What are the underlying drivers of the profit decline? Is it a volume problem, a pricing problem, or a margin problem?
 - Which regions are most consistently contributing to the negative trend?
 
-## 🚀 Action
+## 3. Action
 
 To address this strategic task, I followed a comprehensive data analysis workflow:
 
@@ -30,7 +30,7 @@ The core of my approach was to slice the data by year. This allowed me to compar
 #### 4. Data Visualization (Storytelling with Data)
 The dashboard was designed to tell a clear story over time. The key visualizations—KPI cards, a waterfall chart for monthly variance, a treemap for regional impact, and a scatter plot for customer segmentation—can all be filtered by year to see the story unfold.
 
-## 📊 Result & Recommendations
+## 4. Result & Recommendations
 
 The multi-year analysis uncovered a clear and alarming narrative that was previously hidden in the aggregated data.
 
